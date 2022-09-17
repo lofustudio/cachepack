@@ -17,9 +17,9 @@
     "turbo": "^1.4.3"
   },
   "engines": {
-    "yarn": ">=1.22.18",
+    "yarn": ">=1.22.15",
     "node": ">=14.0.0"
   },
   "dependencies": {},
-  "packageManager": "yarn@1.22.18"
+  "packageManager": "yarn@1.22.15"
 }
